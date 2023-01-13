@@ -1,7 +1,7 @@
 # ToDoList-v1-EJS-backend
 - To Do List is a  planner to organize daily tasks created using the Embedded javaScript for templating and layout and backend is created with node.js and express.js.
 
-** Technologies used **
+**Technologies used**
 - EJS
 - CSS
 - JavaScript
